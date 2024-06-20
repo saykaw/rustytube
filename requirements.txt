@@ -1,0 +1,11 @@
+google-api-python-client
+python-dotenv
+langchain
+openai
+youtube-transcript-api
+faiss-cpu
+streamlit
+autocorrect
+nltk
+keybert
+vaderSentiment
